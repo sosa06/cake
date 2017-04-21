@@ -1,1 +1,3 @@
 Hi this is  my first file one the terminal 
+
+This is teh second addition of this fiel // create a seonde commit on the same pull request 
